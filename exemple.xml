@@ -2,5 +2,6 @@
 	<etudiant>
 		<nom>BARRY</nom>
 		<prenom>Alpha</prenom>
+		<université> Université Paris Est Créteil </université>
 	</etudiant>
 </etudiants>
